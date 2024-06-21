@@ -118,7 +118,7 @@ $ make view-cov
 [npm-url]: https://npmjs.org/package/passport-docusign
 [downloads-image]: https://img.shields.io/npm/dm/passport-docusign.svg?style=flat
 [downloads-url]: https://npmjs.org/package/passport-docusign
-[travis-image]: https://img.shields.io/travis/docusign/passport-docusign.svg?style=flat
+[travis-image]: https://img.shields.io/travis/com/docusign/passport-docusign.svg?style=flat
 [travis-url]: https://travis-ci.org/docusign/passport-docusign
 
 ### Additional Resources
